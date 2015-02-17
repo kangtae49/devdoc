@@ -77,4 +77,24 @@ name = xxx
 email = xxx@email.com
 
 
+.gitignore
+
+*.[oa]
+*~
+
+
+staging area 와 working directory 비교
+$ git diff
+
+last commit 과 staged changes 비교
+$ git diff --staged
+
+
+git 상태
+$ git status
+
+git 상태(short)
+$ git status -s
+
+
 

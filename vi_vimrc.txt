@@ -1,0 +1,14 @@
+set nobackup
+set nowritebackup
+set noswapfile
+set ff=unix
+set encoding=utf-8
+set guifont=Consolas:h10:cHANGEUL
+set guifontwide=Dotumche:h9:cDEFAULT
+
+lang mes en_US
+
+source $VIMRUNTIME/delmenu.vim
+source $VIMRUNTIME/menu.vim
+
+
