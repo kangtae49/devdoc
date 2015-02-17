@@ -52,11 +52,21 @@ git reset HEAD
 git fetch origin
 git reset --hard orign/master
 
+----------------------------
+git push orign master
 
 
+만약 기존에 있는 원격 저장소를 복제한 것이 아니라면, 원격서버의 주소를 git에게
+알려줘야 해야.
+git remote add origin <원격서버주소>
 
+git merge <가지 이름>
 
+충돌을 해결한 이후에
+git add <파일명>
 
+병합전에 어떻게 바뀌었는지 비교
+git diff <원래가지> <비교대상가지>
 
 
 
