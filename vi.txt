@@ -7,7 +7,7 @@ set guifont=Consolas:h10:cHANGEUL
 set guifontwide=Dotumche:h9:cDEFAULT
 
 set colorcolumn=8,16,24,80
-highlight ColorColumn guibg=LightGray
+highlight ColorColumn guibg=gray96
 
 lang mes en_US
 
