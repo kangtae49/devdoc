@@ -8,6 +8,7 @@ set guifontwide=Dotumche:h9:cDEFAULT
 
 set colorcolumn=8,16,24,80
 highlight ColorColumn guibg=gray96
+"highlight ColorColumn ctermbg=194
 
 lang mes en_US
 
